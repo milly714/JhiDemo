@@ -1,0 +1,2 @@
+# JhiDemo
+JHipster test
